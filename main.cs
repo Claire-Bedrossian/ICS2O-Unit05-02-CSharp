@@ -25,8 +25,10 @@ class Program
         if (integerType == positive)
         {
             Console.WriteLine(num);
-        } else {
-            Console.WriteLine(negativeNum);
+        } 
+        else 
+        {
+           Console.WriteLine(negativeNum);
         }
         
         Console.WriteLine("");
